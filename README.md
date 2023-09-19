@@ -1,2 +1,2 @@
-# LanguageTranslator
+# Language Translator
 Language Translator
